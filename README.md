@@ -1,4 +1,13 @@
-### Hi there 👋
+Hi 👋
+I don't have many repositorys here because I mostly working on organizations.
+I live in Germany and just finished school.
+Head over to them
+[Multi Bot for Discord](https://multi-bot.github.io/)
+[Green Bots for Discord](https://green-bots.github.io/)
+[Face recognition for Discord (Python)](https://github.com/Multi-Bot/face-recognition)
+
+
+
 
 <!--
 **Braslerl/Braslerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
