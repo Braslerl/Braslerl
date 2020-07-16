@@ -1,5 +1,5 @@
-Hi 👋
-I don't have many repositorys here because I mostly working on organizations.
+Hi 👋 <br>
+I don't have many repositorys here because I mostly working on organizations. <br>
 I live in Germany and just finished school.
 Head over to them <br>
 [Multi Bot for Discord](https://multi-bot.github.io/) <br>
