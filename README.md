@@ -1,23 +1,9 @@
 Hi 👋 <br>
 I don't have many repositorys here because I mostly working on organizations. <br>
 I live in Germany and just finished school.
-Head over to them <br>
-[Multi Bot for Discord](https://multi-bot.github.io/) <br>
+Head over to them
+ <br>
+ **ALL PROJECTS ARE STOPPED, MAYBE WILL BE STARTED IN FUTURE AGAIN**
+~~[Multi Bot for Discord](https://multi-bot.github.io/) <br>
 [Green Bots for Discord](https://green-bots.github.io/)<br>
-[Face recognition for Discord (Python)](https://github.com/Multi-Bot/face-recognition)
-
-
-<!--
-**Braslerl/Braslerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Face recognition for Discord (Python)](https://github.com/Multi-Bot/face-recognition)~~
