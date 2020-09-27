@@ -1,5 +1,5 @@
 Hi 👋 <br>
-I don't have many repositorys here because I mostly working on organizations. <br>
+I don't have many repositorys here because I mostly working on organizations or private repos. <br>
 I live in Germany and just finished school.
 Head over to them
  <br>
